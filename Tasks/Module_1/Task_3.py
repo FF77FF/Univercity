@@ -1,2 +1,2 @@
 Name = input()
-print("Привет,", Name, "!")
+print("Привет, ", Name, "!", sep = "")
